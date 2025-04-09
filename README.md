@@ -1,1 +1,3 @@
-# programaci-n2 soy estudiantes de 5to año proa voy a utilizar este espacio para guardar mis aprendisajes 
+-----------------------------------------------------------------------------------------
+# Soy estudiante de 5to año PRoA, voy a utilizar este espacio para subir mis aprendizajes
+-----------------------------------------------------------------------------------------
